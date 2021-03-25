@@ -1,3 +1,5 @@
 # PAGINA NÃO ENCONTRADA (page not found)
-Aguarde 3 segundos para o redirecionamento
+
+<h1>Aguarde 3 segundos para o redirecionamento</h1>
+https://meyun-mud.github.io/index.html/
 <meta http-equiv="refresh" content="3; https://Learning.meyunmud.repl.co">
